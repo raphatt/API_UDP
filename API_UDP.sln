@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_UDP", "API_UDP\API_UDP.csproj", "{7534EEDB-615E-4C0C-9DD8-3EDC118E4F7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7534EEDB-615E-4C0C-9DD8-3EDC118E4F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7534EEDB-615E-4C0C-9DD8-3EDC118E4F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7534EEDB-615E-4C0C-9DD8-3EDC118E4F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7534EEDB-615E-4C0C-9DD8-3EDC118E4F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63800F91-1F2D-47FF-82C2-0818E4B21608}
+	EndGlobalSection
+EndGlobal
